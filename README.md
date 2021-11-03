@@ -1,3 +1,5 @@
+<img width="1695" alt="2021-11-03 at 15 44" src="https://user-images.githubusercontent.com/14031295/140043199-309b38f5-bbd9-424e-a405-c41f41cf362b.png">
+
 ## Includes
 
 - Next.js 12
@@ -14,9 +16,5 @@ First, run the development server:
 
 ## Learn More
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- [Next.js](https://nextjs.org/docs)
+- [TailwindCSS](http://tailwindcss.com)
