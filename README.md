@@ -1,5 +1,3 @@
-<img width="1695" alt="2021-11-03 at 15 44" src="https://user-images.githubusercontent.com/14031295/140043199-309b38f5-bbd9-424e-a405-c41f41cf362b.png">
-
 ## Includes
 
 - Next.js 12
