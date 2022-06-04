@@ -1,8 +1,9 @@
 ## Includes
 
-- Next.js 12
-- TailwindCSS 2.2
+- Next.js
+- TailwindCSS
 - SASS
+- Classnames utility
 
 ## Getting Started
 
